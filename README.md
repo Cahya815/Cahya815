@@ -16,7 +16,7 @@
 
 ###
 
-<img align="right" height="150" src="/gif/neuvi.gif"  />
+<img align="right" height="300" src="/gif/neuvi.gif"  />
 
 ###
 
