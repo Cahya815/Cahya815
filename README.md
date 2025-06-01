@@ -1,7 +1,6 @@
 # 💫 About Me:
 
  ## Hi, I’m Irvan Cahya Nugraha 👋
-![img/github-sheader-image (3).png](<img/github-header-image (3).png>)
 
 🎓 I currently studying at **Universitas Teknologi Digital**, Yogyakarta, Indonesia. 
 🧑‍💻 I’m a software engineer with a passion for building scalable and maintainable systems. 
